@@ -8,14 +8,13 @@ API REST que implementa un chatbot coach especializado en desarrollo personal y 
 - Coach experto en desarrollo personal y espiritualidad.
 - Enfoque holístico: psicología positiva, neurociencia y mindfulness.
 - Guía personalizada para el autoconocimiento.
-- Documentación interactiva con **Swagger/OpenAPI**.
+- Documentación interactiva con **Swagger**.
 
 ## 🛠️ Tecnologías
 
 - **Django REST Framework**: Principal tecnología para el desarrollo de la API.
 - **OpenAI API**: Implementación de inteligencia artificial.
 - **SQLite**: Base de datos ligera para almacenamiento local.
-- **Swagger/OpenAPI**: Generación de documentación interactiva para la API.
 
 ## 📂 Estructura del Proyecto
 
@@ -75,7 +74,6 @@ Accede a la aplicación en `http://127.0.0.1:8000/`.
 ## 📖 Documentación API
 
 - **Swagger UI**: `/swagger/`
-- **ReDoc**: `/redoc/`
 
 ## 🤖 Capacidades del Chatbot
 
