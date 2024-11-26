@@ -84,6 +84,18 @@ Accede a la aplicación en `http://127.0.0.1:8000/`.
 - Equilibrio emocional y mental.
 - Conexión con el propósito de vida.
 
+## 📂 Endpoints Principales
+
+### **Chats**
+
+- **GET** `/chats/` - Lista todos los chats.
+- **POST** `/chats/` - Crea un nuevo chat.
+- **GET** `/chats/{id}/` - Obtiene los detalles de un chat específico.
+- **PUT** `/chats/{id}/` - Actualiza completamente un chat.
+- **PATCH** `/chats/{id}/` - Actualiza parcialmente un chat.
+- **DELETE** `/chats/{id}/` - Elimina un chat.
+- **POST** `/chats/{id}/send_message/` - Envía un mensaje al chat especificado.
+
 ## 🔧 Uso
 
 1. Crear un usuario y obtener el token de autenticación.
