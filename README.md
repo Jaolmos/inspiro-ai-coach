@@ -7,7 +7,6 @@ API REST que implementa un chatbot coach especializado en desarrollo personal y 
 - Chatbot basado en **GPT-3.5-turbo**.
 - Coach experto en desarrollo personal y espiritualidad.
 - Enfoque holístico: psicología positiva, neurociencia y mindfulness.
-- Guía personalizada para el autoconocimiento.
 - Documentación interactiva con **Swagger**.
 
 ## 🛠️ Tecnologías
